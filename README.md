@@ -11,7 +11,8 @@
 - 05 函数基础.py
 - 06 字符串知识点.py
 - 07 format 格式化输出.py
-- 08 集合数据类型.py## 文件分类 | File Classification
+- 08 集合数据类型.py
+- 09 序列数据类型.py
 
 
 ## 使用说明 | Usage
