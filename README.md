@@ -18,7 +18,9 @@
 12 数据的读取和存储.py  
 13 Python计算生态之模块.py   
 14 turtle库绘图.py  
-15 random库.py
+15 random库.py  
+其他文件：
+  全国计算机等级考试二级Python语言程序设计考试大纲（2025年版）（来自网站：https://ncre.neea.edu.cn/html1/report/2412/185-1.htm）
 
 
 ## 使用说明 | Usage
