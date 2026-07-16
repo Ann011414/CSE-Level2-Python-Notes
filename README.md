@@ -18,6 +18,7 @@
 12 数据的读取和存储.py  
 13 Python计算生态之模块.py   
 14 turtle库绘图.py  
+15 random库.py
 
 
 ## 使用说明 | Usage
