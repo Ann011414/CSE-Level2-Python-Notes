@@ -1,9 +1,9 @@
 # CSE-Level2-Python-Notes
-## 仓库介绍 | Repository Intro
+## 仓库介绍 
 本仓库存放全国计算机二级 Python 备考代码与配套笔记，学习素材源自 B 站博主「逊哥带你学计算机」。所有知识点均以注释形式写在代码内部，便于刷题与考前复习。
 内容覆盖 Python 基础语法、选择填空考点、上机编程真题，后续会持续更新补充。
 
-## 文件分类 | File Classification
+## 文件分类  
 01 基础语法.py  
 02 分支结构.py  
 03 循环语句.py  
@@ -19,9 +19,10 @@
 13 Python计算生态之模块.py   
 14 turtle库绘图.py  
 15 random库.py  
+16 Python第三方库.py   
 其他文件：
   全国计算机等级考试二级Python语言程序设计考试大纲（2025年版）（来自网站：https://ncre.neea.edu.cn/html1/report/2412/185-1.htm）
 
 
-## 使用说明 | Usage
+## 使用说明   
 直接打开对应 `.py` 文件查看代码，代码内附带详细注释笔记，适配计算机二级Python考试复习。
