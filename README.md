@@ -19,8 +19,9 @@
 13 Python计算生态之模块.py   
 14 turtle库绘图.py  
 15 random库.py  
-16 Python第三方库.py   
-其他文件：
+16 Python第三方库.py  
+Practice_1.py  
+其他文件：  
   全国计算机等级考试二级Python语言程序设计考试大纲（2025年版）（来自网站：https://ncre.neea.edu.cn/html1/report/2412/185-1.htm）
 
 
